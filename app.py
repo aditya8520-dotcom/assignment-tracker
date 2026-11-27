@@ -8,3 +8,5 @@ def add_assignment(name):
 if __name__ == "__main__":
     add_assignment("ASE Lab")
     print(assignments)
+def view_assignments():
+    return assignments
